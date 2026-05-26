@@ -315,4 +315,11 @@ Soymoticons
 
 Official SoyCord builds are only published through this repository's Releases page by smegus.
 
+## Lawful use only
+
+SoyCord is a general-purpose chat application intended for lawful communication, testing, and personal/private use.
+
+Do not use SoyCord for harassment, threats, abuse, malware, fraud, illegal content sharing, evading law enforcement, or any other unlawful activity.
+
+The author does not endorse or assist illegal use of this software. Users are responsible for how they use, modify, host, or redistribute SoyCord.
 Unofficial forks, modified builds, or repackaged versions must be clearly marked as unofficial or modified. Do not claim that modified builds are the original SoyCord release.
