@@ -44,15 +44,6 @@ Messages are encrypted before they are sent to ntfy. Other SoyCord clients using
 - ntfy rate-limit cooldown handling
 - Compatibility mode for older PowerShell SoyCord text messages
 
-## Screenshots
-
-Add screenshots here later:
-
-```md
-![SoyCord chat window](screenshots/chat.png)
-![Inline Soymoticons](screenshots/soymoticons.png)
-```
-
 ## How chats work
 
 A SoyCord room is just an ntfy topic.
