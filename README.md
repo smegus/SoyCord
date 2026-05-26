@@ -293,15 +293,9 @@ Use /resync if a topic looks stale
 
 ## License
 
-Add a license before publishing publicly.
+SoyCord is licensed under the zlib License.
 
-Good simple choices:
-
-```text
-MIT License
-Apache-2.0
-GPL-3.0
-```
+You may use, modify, and share it, but you must not claim that you wrote the original SoyCord, and modified versions must be clearly marked as modified.
 
 If you are not sure, MIT is usually the easiest for a small open-source app.
 
