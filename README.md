@@ -312,3 +312,8 @@ ntfy
 WebView2
 Soymoticons
 ```
+## Official builds
+
+Official SoyCord builds are only published through this repository's Releases page by smegus.
+
+Unofficial forks, modified builds, or repackaged versions must be clearly marked as unofficial or modified. Do not claim that modified builds are the original SoyCord release.
