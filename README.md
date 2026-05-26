@@ -3,7 +3,6 @@ SoyCord Standalone portable encrypted chat, for privacy.
 
 SoyCord is a lightweight encrypted chat client built on top of ntfy topics. It is meant to feel like a small, classic desktop messenger: simple rooms, pinned topics, profile pictures, inline Soymoticons, encrypted uploads, and a normal Windows installer.
 
-It started as an experiment, but has slowly turned into a real little Discord-like chat app.
 
 ## What it does
 
