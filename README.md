@@ -307,7 +307,7 @@ If you are not sure, MIT is usually the easiest for a small open-source app.
 
 ## Credits
 
-Built by Philip.
+Built by Smegus.
 
 Powered by:
 
