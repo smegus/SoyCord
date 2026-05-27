@@ -68,7 +68,7 @@ The current message format uses:
 - HMAC verification
 - `NDL2:` encrypted packet format
 
-The app is a personal/experimental project and has not been professionally audited. Do not treat it like a hardened security product for extremely sensitive information.
+The app is a personal/experimental project and has not been professionally audited. Do not treat it like a hardened security product for extremely sensitive information. Or do, it works.
 
 ## Soymoticons
 
